@@ -18,7 +18,6 @@ Module		:
 	- Events
 	- Payment
 	- Deposit
-	- Payment History
 	- Participant
 
 User Flow 
