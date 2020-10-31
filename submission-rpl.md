@@ -24,8 +24,8 @@ Module		:
 User Flow 
 
 	- Pemilik Event Organizer (Administrator)
-		  1. login sebagai admin
-		  2. melengkapi data informasi usahanya
+		  1. Login sebagai admin
+		  2. Melengkapi data informasi usahanya
       
 	- Penyelenggara Event
 		  1. Mendaftar sebagai 'penyelenggara'
