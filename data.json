@@ -3,28 +3,35 @@
         "id": "1 => id_apel",
         "name": "Nama Apel",
         "leader_name": "Nama Pemimpin",
-        "code": "HADIR/IZIN/TANPA KETERANGAN/DINAS LUAR",
-        "fulldate": "Senis, 21 Juli 2019 08:00:00"
+        "code": "HADIR",
+        "fulldate": "2018-04-25 09:25:00"
     },
     {
         "id": "1 => id_apel",
         "name": "Nama Apel",
         "leader_name": "Nama Pemimpin",
-        "code": "HADIR/IZIN/TANPA KETERANGAN/DINAS LUAR",
-        "fulldate": "Senis, 21 Juli 2019 08:00:00"
+        "code": "IZIN",
+        "fulldate": "2019-07-12 05:25:00"
     },
     {
         "id": "1 => id_apel",
         "name": "Nama Apel",
         "leader_name": "Nama Pemimpin",
-        "code": "HADIR/IZIN/TANPA KETERANGAN/DINAS LUAR",
-        "fulldate": "Senis, 21 Juli 2019 08:00:00"
+        "code": "HADIR",
+        "fulldate": "2021-07-25 10:25:00"
     },
     {
         "id": "1 => id_apel",
         "name": "Nama Apel",
         "leader_name": "Nama Pemimpin",
-        "code": "HADIR/IZIN/TANPA KETERANGAN/DINAS LUAR",
-        "fulldate": "Senis, 21 Juli 2019 08:00:00"
+        "code": "TANPA KETERANGAN",
+        "fulldate": "2019-12-25 01:25:00"
+    },
+    {
+        "id": "1 => id_apel",
+        "name": "Nama Apel",
+        "leader_name": "Nama Pemimpin",
+        "code": "TANPA KETERANGAN",
+        "fulldate": "2019-12-25 11:25:00"
     }
 ]
