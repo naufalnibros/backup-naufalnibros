@@ -1,37 +1,82 @@
 [
-    {
-        "id": "1 => id_apel",
-        "name": "Nama Apel",
-        "leader_name": "Nama Pemimpin",
-        "code": "HADIR",
-        "fulldate": "2018-04-25 09:25:00"
+  {
+    "id": "1 => id_apel",
+    "name": "Nama Apel",
+    "leader": {
+      "id": 2022,
+      "tanggal": 12,
+      "name": "Soleh"
+      "bulan_tahun": "MAR 2019",
+      "status": "not verified | revision",
+      "nomor_surat": "123/123/12/3123",
+      "perihal": "Lorem ipsum",
+      "satker": "Satuan Kerja"
     },
-    {
-        "id": "1 => id_apel",
-        "name": "Nama Apel",
-        "leader_name": "Nama Pemimpin",
-        "code": "IZIN",
-        "fulldate": "2019-07-12 05:25:00"
+    "code": "HADIR",
+    "fulldate": "2018-04-25 09:25:00"
+  },
+  {
+    "id": "1 => id_apel",
+    "name": "Nama Apel",
+    "leader": {
+      "id": 2022,
+      "tanggal": 12,
+      "name": "Agung"
+      "bulan_tahun": "MAR 2018",
+      "status": "not verified | revision",
+      "nomor_surat": "123/123/12/3123",
+      "perihal": "Lorem ipsum",
+      "satker": "Satuan Kerja"
     },
-    {
-        "id": "1 => id_apel",
-        "name": "Nama Apel",
-        "leader_name": "Nama Pemimpin",
-        "code": "HADIR",
-        "fulldate": "2021-07-25 10:25:00"
+    "code": "IZIN",
+    "fulldate": "2019-07-12 05:25:00"
+  },
+  {
+    "id": "1 => id_apel",
+    "name": "Nama Apel",
+    "leader": {
+      "id": 2022,
+      "tanggal": 12,
+      "name": "Rahmad"
+      "bulan_tahun": "MAR 2017",
+      "status": "not verified | revision",
+      "nomor_surat": "123/123/12/3123",
+      "perihal": "Lorem ipsum",
+      "satker": "Satuan Kerja"
     },
-    {
-        "id": "1 => id_apel",
-        "name": "Nama Apel",
-        "leader_name": "Nama Pemimpin",
-        "code": "TANPA KETERANGAN",
-        "fulldate": "2019-12-25 01:25:00"
+    "code": "HADIR",
+    "fulldate": "2021-07-25 10:25:00"
+  },
+  {
+    "id": "1 => id_apel",
+    "name": "Nama Apel",
+    "leader": {
+      "id": 2022,
+      "tanggal": 12,
+      "name": "Adji"
+      "bulan_tahun": "MAR 2016",
+      "status": "not verified | revision",
+      "nomor_surat": "123/123/12/3123",
+      "perihal": "Lorem ipsum",
+      "satker": "Satuan Kerja"
     },
-    {
-        "id": "1 => id_apel",
-        "name": "Nama Apel",
-        "leader_name": "Nama Pemimpin",
-        "code": "TANPA KETERANGAN",
-        "fulldate": "2019-12-25 11:25:00"
-    }
+    "code": "TANPA KETERANGAN",
+    "fulldate": "2019-12-25 01:25:00"
+  },
+  {
+    "id": "1 => id_apel",
+    "name": "Nama Apel",
+    "leader": {
+      "id": 2022,
+      "tanggal": 12,
+      "name": "Samuel"
+      "bulan_tahun": "MAR 2015",
+      "status": "not verified | revision",
+      "nomor_surat": "123/123/12/3123",
+      "perihal": "Lorem ipsum",
+      "satker": "Satuan Kerja"
+    },
+    "code": "TANPA KETERANGAN",
+    "fulldate": "2019-12-25 11:25:00"
+  }
 ]
